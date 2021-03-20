@@ -3,7 +3,7 @@
 Este curso possui as correções dos exercícios tratados no nosso curso de Lógica de Programação usando Java como linguagem.
 
 Veja mais informações sobre o curso na Udemy:
-https://www.udemy.com/user/nelio-alves/
+https://www.udemy.com/course/java-curso-logica-de-programacao
 
 Grande abraço e bons estudos!
 Prof. Nelio Alves
